@@ -1,4 +1,4 @@
-# Notch - App Duplicate
+# Moneyvesh - App Duplicate
 
 A new Flutter project.
 
