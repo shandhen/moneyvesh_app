@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "871749734167",
+    "project_id": "notch-app-ad2fe",
+    "storage_bucket": "notch-app-ad2fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871749734167:android:06805e25e8f157ef7eb152",
+        "android_client_info": {
+          "package_name": "com.flutterflow.moneyveshapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871749734167-l4g6ondf3timet6tr63cd8v362j5nrh0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterflow.moneyveshapp",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "871749734167-8cisa6ev11u8m37le8sila8kks0la85p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG0ECqTbNcXbcm6qpZyGexZTG1SYCxqzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871749734167-8cisa6ev11u8m37le8sila8kks0la85p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "871749734167-4qlbiv9hu0ok64fkasia1qnusodkh2vf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.moneyveshapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
